@@ -1,0 +1,24 @@
+2021-11-23 10:33:15 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TODO" not found; SQL statement:
+INSERT INTO todo VALUES (DEFAULT, ?, DEFAULT); [42102-200]
+2021-11-23 10:33:15 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TODO" not found; SQL statement:
+INSERT INTO todo VALUES (DEFAULT, ?, DEFAULT); [42102-200]
+2021-11-23 10:33:15 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TODO" not found; SQL statement:
+INSERT INTO todo VALUES (DEFAULT, ?, DEFAULT); [42102-200]
+2021-11-23 10:33:15 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TODO" not found; SQL statement:
+SELECT * FROM todo ORDER BY id; [42102-200]
+2021-11-23 10:34:41 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TODO" not found; SQL statement:
+INSERT INTO todo VALUES (DEFAULT, ?,DEFAULT); [42102-200]
+2021-11-23 10:34:41 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TODO" not found; SQL statement:
+INSERT INTO todo VALUES (DEFAULT, ?,DEFAULT); [42102-200]
+2021-11-23 10:34:41 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TODO" not found; SQL statement:
+INSERT INTO todo VALUES (DEFAULT, ?,DEFAULT); [42102-200]
+2021-11-23 10:34:41 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TODO" not found; SQL statement:
+SELECT * FROM todo ORDER BY id; [42102-200]
